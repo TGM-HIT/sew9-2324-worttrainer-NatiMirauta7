@@ -14,7 +14,7 @@ import org.json.JSONTokener;
 public class JsonWorttrainer implements PersistenzArt{
     String path;
     public JsonWorttrainer(){
-        this.path ="/Users/andreasdragaschnig/Documents/5DHIT/SEW/Worttrainer/src/main/java/at/ac/tgm/adragaschnig/worte.json";
+        this.path ="/Users/nxti.hype/Desktop/Schule/SEW/5. Jahrgang/sew9-2324-worttrainer-NatiMirauta7/Worttrainer/src/main/java/nmirauta/worte.json";
     }
 
     @Override
